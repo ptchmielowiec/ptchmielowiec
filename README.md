@@ -6,7 +6,7 @@ About Me
 
 - :pushpin: QGIS - When it comes to GIS mapping, my heart belongs to QGIS. If I had to choose one software to use for the rest of my life, it would undoubtedly be QGIS.
 
-- :elephant: PostgreSQL with PostGIS - For managing geospatial data, PostgreSQL with the PostGIS extension is my top choice. I believe that most of us start our database journey with relational databases, then venture into the endless realm of NoSQL databases, only to eventually realize that PostgreSQL is the real OG!
+- :elephant: PostgreSQL with PostGIS - For managing geospatial data, PostgreSQL with the PostGIS extension is my top choice. I b
 
 - :computer: Solid.js/ Docker/ PostgREST - In the world of web development, I'm a firm believer in the K.I.S.S. principle (keep it simple, stupid). That's why my go-to web tech stack is Solid.js, PostgREST (if app is using postgresql as it's database) or PocketBase for smaller applications, running on Docker. With this approach, I can develop full-stack apps capable of running on cost-effective servers in a very short period of time.
 
